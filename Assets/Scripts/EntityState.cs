@@ -2,29 +2,35 @@ using Unity.VisualScripting.FullSerializer;
 using UnityEditor.U2D.Sprites;
 using UnityEngine;
 
-public class EntityState
+public abstract class EntityState
 {
+   protected Player player;
    protected StateMachine stateMachine;
-   protected string stateName;
+   protected string AnimBoolName;
+   protected Animator anim;
+   protected Rigidbody2D rb;
 
-   public EntityState(StateMachine stateMachine, string stateName)
+   public EntityState(Player player, StateMachine stateMachine, string animBoolName)
    {
+      this.player = player;
       this.stateMachine = stateMachine;
-      this.stateName = stateName;
+      this.AnimBoolName = animBoolName;
+      anim = player.anim;
+      rb = player.rb;
    }
 
    public virtual void Enter()
    {
-      Debug.Log("I enter " + stateName);
+      anim.SetBool(AnimBoolName, true);
    }
 
    public virtual void Update()
    {
-      Debug.Log("I run update of  " + stateName);
+      Debug.Log("I run update of  " + AnimBoolName);
    }
 
    public virtual void Exit()
    {
-      Debug.Log("I exit " + stateName);
+       anim.SetBool(AnimBoolName, false);
    }
 }
