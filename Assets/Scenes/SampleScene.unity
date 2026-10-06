@@ -507,7 +507,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc1c463992449f943a77de250ea26606, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
-  moveSpeed: 5
+  moveSpeed: 8
+  jumpForce: 12
+  groundCheckDistance: 1.38
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 64
+  groundDetected: 0
 --- !u!4 &1539539450
 Transform:
   m_ObjectHideFlags: 0
@@ -517,7 +523,7 @@ Transform:
   m_GameObject: {fileID: 1539539448}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalPosition: {x: -0, y: -1.35, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -537,9 +543,9 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDamping: 0
+  m_LinearDamping: 0.1
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 3.5
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -585,8 +591,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.034930438, y: -0.28340018}
-  m_Size: {x: 0.8271486, y: 2.0760467}
+  m_Offset: {x: 0, y: -0.285}
+  m_Size: {x: 0.77, y: 2.09}
   m_Direction: 0
 --- !u!1 &2009173886
 GameObject:
@@ -599,7 +605,7 @@ GameObject:
   - component: {fileID: 2009173889}
   - component: {fileID: 2009173888}
   - component: {fileID: 2009173887}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
