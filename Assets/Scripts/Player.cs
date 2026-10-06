@@ -1,6 +1,7 @@
 using System;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class Player : MonoBehaviour
 {
@@ -13,14 +14,17 @@ public class Player : MonoBehaviour
     public PlayerJumpState jumpState { get; private set; }
     public PlayerFallState fallState { get; private set; }
     public playerWallSlideState wallSlideState { get; private set; }
+    public PlayerWallJumpState wallJumpState { get; private set; }
     
     [Header("Movement details")] 
     public float moveSpeed = 8;
     public float jumpForce = 12;
+    [FormerlySerializedAs("wallJumpDir")] public Vector2 walJumpForce;
     public float inAirMoveMultiplier = 0.7f;
     public float wallSlideMultiplier = 0.4f;
     private bool facingRight = true;
-    private int facingDir = 1;
+    public int facingDir { get; private set; } = 1;
+
     public Vector2 moveInput { get; private set; }
 
     [Header("Collision detection")] 
@@ -45,6 +49,7 @@ public class Player : MonoBehaviour
         jumpState = new PlayerJumpState(this, stateMachine, "jumpFall");
         fallState = new PlayerFallState(this, stateMachine, "jumpFall");
         wallSlideState = new playerWallSlideState(this, stateMachine, "wallSlide");
+        wallJumpState = new PlayerWallJumpState(this, stateMachine, "jumpFall");
     }
 
     private void OnEnable()
