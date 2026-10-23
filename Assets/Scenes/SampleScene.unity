@@ -269,6 +269,7 @@ GameObject:
   - component: {fileID: 257699886}
   - component: {fileID: 257699888}
   - component: {fileID: 257699887}
+  - component: {fileID: 257699889}
   m_Layer: 0
   m_Name: Animator
   m_TagString: Untagged
@@ -373,6 +374,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &257699889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 257699885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc2c4131733ed7f40beb606798096ab6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimationTriggers
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -643,7 +656,7 @@ Transform:
   m_GameObject: {fileID: 528465770}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.09, y: -0.84, z: 0}
+  m_LocalPosition: {x: -8.71, y: -1.03, z: 0}
   m_LocalScale: {x: -5.889066, y: 5.3938518, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -785,11 +798,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc1c463992449f943a77de250ea26606, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
+  attackVelocity:
+  - {x: 3, y: 1.5}
+  - {x: 1, y: 2.5}
+  - {x: 3.5, y: 5}
+  attackVelocityDuration: 0.1
+  comboResetTime: 1
   moveSpeed: 8
   jumpForce: 12
   walJumpForce: {x: 6, y: 12}
   inAirMoveMultiplier: 0.7
   wallSlideMultiplier: 0.7
+  dashDuration: 0.25
+  dashSpeed: 20
   groundCheckDistance: 1.38
   wallCheckDistance: 0.5
   whatIsGround:
