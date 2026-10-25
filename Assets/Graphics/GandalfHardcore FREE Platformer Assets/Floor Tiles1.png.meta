@@ -1,0 +1,5477 @@
+fileFormatVersion: 2
+guid: ce80ea578ccfa7744bc7553a814f67ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -885490389708638852
+    second: Floor Tiles1_0
+  - first:
+      213: 4664948647741177346
+    second: Floor Tiles1_1
+  - first:
+      213: 2619224648285878156
+    second: Floor Tiles1_2
+  - first:
+      213: 9059985093895342338
+    second: Floor Tiles1_3
+  - first:
+      213: -2969643690591719800
+    second: Floor Tiles1_4
+  - first:
+      213: -8529450578015033813
+    second: Floor Tiles1_5
+  - first:
+      213: -3836897206303343908
+    second: Floor Tiles1_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Floor Tiles1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47, y: -43}
+        - {x: 47, y: 46}
+        - {x: 46, y: 47}
+        - {x: -46, y: 47}
+        - {x: -47, y: 46}
+        - {x: -47, y: -43}
+        - {x: -43, y: -47}
+        - {x: 43, y: -47}
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 92dc932ecb98f8640bf9c2af2c508a44
+      internalID: -885490389708638852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47, y: -43}
+        - {x: 47, y: 46}
+        - {x: 46, y: 47}
+        - {x: -46, y: 47}
+        - {x: -47, y: 46}
+        - {x: -47, y: -43}
+        - {x: -43, y: -47}
+        - {x: 43, y: -47}
+      - - {x: -15, y: -14}
+        - {x: -15, y: -6}
+        - {x: -16, y: -5}
+        - {x: -15, y: -4}
+        - {x: -16, y: 0}
+        - {x: -15, y: 1}
+        - {x: -15, y: 10}
+        - {x: -16, y: 11}
+        - {x: -15, y: 12}
+        - {x: -15, y: 14}
+        - {x: -16, y: 15}
+        - {x: -14, y: 14}
+        - {x: -5, y: 14}
+        - {x: -4, y: 15}
+        - {x: -3, y: 14}
+        - {x: -1, y: 14}
+        - {x: 0, y: 15}
+        - {x: 2, y: 14}
+        - {x: 11, y: 14}
+        - {x: 12, y: 15}
+        - {x: 13, y: 14}
+        - {x: 15, y: 14}
+        - {x: 15, y: 12}
+        - {x: 16, y: 11}
+        - {x: 15, y: 10}
+        - {x: 15, y: 1}
+        - {x: 16, y: -1}
+        - {x: 15, y: -2}
+        - {x: 15, y: -4}
+        - {x: 16, y: -5}
+        - {x: 15, y: -6}
+        - {x: 15, y: -14}
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3389aa9959e5bbe47b11f012c31dd900
+      internalID: 4664948647741177346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 33.5, y: -42}
+        - {x: 33.5, y: -35}
+        - {x: 32.5, y: -34}
+        - {x: 32.5, y: -32}
+        - {x: 33.5, y: -31}
+        - {x: 33.5, y: -22}
+        - {x: 32.5, y: -21}
+        - {x: 33.5, y: -20}
+        - {x: 33.5, y: -18}
+        - {x: 32.5, y: -17}
+        - {x: 33.5, y: -16}
+        - {x: 35.5, y: -17}
+        - {x: 44.5, y: -17}
+        - {x: 45.5, y: -16}
+        - {x: 46.5, y: -17}
+        - {x: 50.5, y: -16}
+        - {x: 51.5, y: -17}
+        - {x: 55.5, y: -17}
+        - {x: 56.5, y: -16}
+        - {x: 59.5, y: -16}
+        - {x: 62.5, y: -13}
+        - {x: 62.5, y: 16}
+        - {x: 61.5, y: 17}
+        - {x: 33.5, y: 17}
+        - {x: 33.5, y: 26}
+        - {x: 32.5, y: 27}
+        - {x: 33.5, y: 28}
+        - {x: 33.5, y: 33}
+        - {x: 32.5, y: 34}
+        - {x: 34.5, y: 36}
+        - {x: 34.5, y: 43}
+        - {x: 31.5, y: 47}
+        - {x: -28.5, y: 47}
+        - {x: -30.5, y: 46}
+        - {x: -31.5, y: 43}
+        - {x: -31.5, y: 36}
+        - {x: -29.5, y: 34}
+        - {x: -30.5, y: 33}
+        - {x: -30.5, y: 28}
+        - {x: -29.5, y: 27}
+        - {x: -30.5, y: 26}
+        - {x: -30.5, y: 17}
+        - {x: -58.5, y: 17}
+        - {x: -62.5, y: 14}
+        - {x: -62.5, y: 3}
+        - {x: -61.5, y: 2}
+        - {x: -62.5, y: 1}
+        - {x: -62.5, y: -1}
+        - {x: -61.5, y: -2}
+        - {x: -62.5, y: -3}
+        - {x: -62.5, y: -10}
+        - {x: -56.5, y: -16}
+        - {x: -48.5, y: -17}
+        - {x: -47.5, y: -16}
+        - {x: -45.5, y: -16}
+        - {x: -44.5, y: -17}
+        - {x: -35.5, y: -17}
+        - {x: -34.5, y: -16}
+        - {x: -33.5, y: -17}
+        - {x: -31.5, y: -17}
+        - {x: -30.5, y: -16}
+        - {x: -29.5, y: -17}
+        - {x: -30.5, y: -18}
+        - {x: -30.5, y: -20}
+        - {x: -29.5, y: -21}
+        - {x: -30.5, y: -22}
+        - {x: -30.5, y: -31}
+        - {x: -29.5, y: -32}
+        - {x: -29.5, y: -34}
+        - {x: -30.5, y: -35}
+        - {x: -30.5, y: -42}
+        - {x: -25.5, y: -47}
+        - {x: 28.5, y: -47}
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 24a8e79e70762dc4b8dacd821b1403c9
+      internalID: 2619224648285878156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47, y: -43}
+        - {x: 47, y: 46}
+        - {x: 46, y: 47}
+        - {x: -46, y: 47}
+        - {x: -47, y: 46}
+        - {x: -47, y: -43}
+        - {x: -43, y: -47}
+        - {x: 43, y: -47}
+      physicsShape:
+      - - {x: 13, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d6e1b2381b460cd4588df9abb883a959
+      internalID: 9059985093895342338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -42}
+        - {x: 32, y: -35}
+        - {x: 31, y: -34}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -22}
+        - {x: 31, y: -21}
+        - {x: 32, y: -20}
+        - {x: 32, y: -18}
+        - {x: 31, y: -17}
+        - {x: 32, y: -16}
+        - {x: 34, y: -17}
+        - {x: 43, y: -17}
+        - {x: 44, y: -16}
+        - {x: 45, y: -17}
+        - {x: 49, y: -16}
+        - {x: 50, y: -17}
+        - {x: 58, y: -16}
+        - {x: 63, y: -11}
+        - {x: 63, y: 14}
+        - {x: 60, y: 17}
+        - {x: 32, y: 17}
+        - {x: 32, y: 26}
+        - {x: 31, y: 27}
+        - {x: 32, y: 28}
+        - {x: 32, y: 33}
+        - {x: 31, y: 34}
+        - {x: 33, y: 36}
+        - {x: 33, y: 43}
+        - {x: 30, y: 47}
+        - {x: -30, y: 47}
+        - {x: -32, y: 46}
+        - {x: -33, y: 43}
+        - {x: -33, y: 36}
+        - {x: -31, y: 34}
+        - {x: -32, y: 33}
+        - {x: -32, y: 28}
+        - {x: -31, y: 27}
+        - {x: -32, y: 26}
+        - {x: -32, y: 17}
+        - {x: -60, y: 17}
+        - {x: -63, y: 14}
+        - {x: -63, y: -11}
+        - {x: -58, y: -16}
+        - {x: -50, y: -17}
+        - {x: -49, y: -16}
+        - {x: -47, y: -16}
+        - {x: -46, y: -17}
+        - {x: -37, y: -17}
+        - {x: -36, y: -16}
+        - {x: -35, y: -17}
+        - {x: -33, y: -17}
+        - {x: -32, y: -16}
+        - {x: -31, y: -17}
+        - {x: -32, y: -18}
+        - {x: -32, y: -20}
+        - {x: -31, y: -21}
+        - {x: -32, y: -22}
+        - {x: -32, y: -31}
+        - {x: -31, y: -32}
+        - {x: -31, y: -34}
+        - {x: -32, y: -35}
+        - {x: -32, y: -42}
+        - {x: -27, y: -47}
+        - {x: 27, y: -47}
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b0d423b15b0dac740ae3a4807cbbe4e6
+      internalID: -2969643690591719800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 47, y: -43}
+        - {x: 47, y: 46}
+        - {x: 46, y: 47}
+        - {x: -46, y: 47}
+        - {x: -47, y: 46}
+        - {x: -47, y: -43}
+        - {x: -43, y: -47}
+        - {x: 43, y: -47}
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -15, y: -14}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b24b1d1ceb0977140921e4d094361f13
+      internalID: -8529450578015033813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 32, y: -42}
+        - {x: 32, y: -35}
+        - {x: 31, y: -34}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -22}
+        - {x: 31, y: -21}
+        - {x: 32, y: -20}
+        - {x: 32, y: -18}
+        - {x: 31, y: -17}
+        - {x: 32, y: -16}
+        - {x: 34, y: -17}
+        - {x: 43, y: -17}
+        - {x: 44, y: -16}
+        - {x: 45, y: -17}
+        - {x: 49, y: -16}
+        - {x: 50, y: -17}
+        - {x: 58, y: -16}
+        - {x: 63, y: -11}
+        - {x: 63, y: 14}
+        - {x: 60, y: 17}
+        - {x: 32, y: 17}
+        - {x: 32, y: 26}
+        - {x: 31, y: 27}
+        - {x: 32, y: 28}
+        - {x: 32, y: 33}
+        - {x: 31, y: 34}
+        - {x: 33, y: 36}
+        - {x: 33, y: 43}
+        - {x: 30, y: 47}
+        - {x: -30, y: 47}
+        - {x: -32, y: 46}
+        - {x: -33, y: 43}
+        - {x: -33, y: 36}
+        - {x: -31, y: 34}
+        - {x: -32, y: 33}
+        - {x: -32, y: 28}
+        - {x: -31, y: 27}
+        - {x: -32, y: 26}
+        - {x: -32, y: 17}
+        - {x: -60, y: 17}
+        - {x: -63, y: 14}
+        - {x: -63, y: -11}
+        - {x: -58, y: -16}
+        - {x: -50, y: -17}
+        - {x: -49, y: -16}
+        - {x: -47, y: -16}
+        - {x: -46, y: -17}
+        - {x: -37, y: -17}
+        - {x: -36, y: -16}
+        - {x: -35, y: -17}
+        - {x: -33, y: -17}
+        - {x: -32, y: -16}
+        - {x: -31, y: -17}
+        - {x: -32, y: -18}
+        - {x: -32, y: -20}
+        - {x: -31, y: -21}
+        - {x: -32, y: -22}
+        - {x: -32, y: -31}
+        - {x: -31, y: -32}
+        - {x: -31, y: -34}
+        - {x: -32, y: -35}
+        - {x: -32, y: -42}
+        - {x: -27, y: -47}
+        - {x: 27, y: -47}
+      physicsShape:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c647e5cc2cba3964ba42345f05cdbdaf
+      internalID: -3836897206303343908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b740ca0741ff1354b95458f43533917c
+      internalID: -1800769148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c8343168500a90942afb92c6b0c1544f
+      internalID: 587784271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ab81ec3480a1ed343941052d74d0466f
+      internalID: -2121943322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3c4f20ec0e9df0b4796e01028e063607
+      internalID: -98629532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 540161dade88d944fb6870152772d286
+      internalID: -1156302322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3a166df7660251e4faee9ab4b5c2b20a
+      internalID: -829265772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4eaecde136f72604f824e8f822c45c50
+      internalID: 1051478708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f42a9834476524e4196d92d3ad9e76c1
+      internalID: -2097258235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 49fbae097239f1d4db9f18578d4cf775
+      internalID: -1929130406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b8e5517da177a8640b521727e1c68c4f
+      internalID: -231245414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 986852e5880247e4db2ff6431bfaf97b
+      internalID: -274668902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bf0afc18d2e96a7449d9aa907f53618b
+      internalID: 429581467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4f7be27f4683b824f9be869b5d80070c
+      internalID: 1958776069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9f05bf52ef7315a43a1c3d2bcfdca676
+      internalID: -1673724728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2c241799f2d89904d8d1524470807735
+      internalID: -266597193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c00eabace567e274387c7957d8c707be
+      internalID: -594062065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bec8c6df60a5d3a4791a760f95a4d81f
+      internalID: -260292456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1c0b7f6be412e2442b3ec2aa67714b41
+      internalID: -1289606501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: de39627f6b8be564f9be8d10f39124ba
+      internalID: 1639157351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d5a87022c56a5b54f86acc6cb8beb6ac
+      internalID: 578887289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2a1a0a1f22bee264a8194f5773d2ba76
+      internalID: -1348941916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9f15dbf716965ac4485a35defa4de4c5
+      internalID: -805149467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f873a96a1625f53499ec77ab59510cc7
+      internalID: -784099658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: -1, y: -16}
+        - {x: 1, y: -13}
+        - {x: 3, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -12, y: -16}
+        - {x: -9, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a5eb3d30cf5a74940bda6e96e1aae4fe
+      internalID: -2105869879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -11, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 09ca62ac7f894f34092208317a2814fb
+      internalID: 1941512846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: 0}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a94e24c088bfcbf4289829e2e3bdedbe
+      internalID: 497994328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 31d007b274fb5a44e92640b66a90333a
+      internalID: 397165637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3a45c1723c65f914eaf87e2d4a2c538f
+      internalID: 866635648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 71fd99868c5d4964f87b6fa863974899
+      internalID: -1038921408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 5}
+        - {x: -16, y: 3}
+        - {x: -16, y: 0}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6ecce466bef509a47b70e057cd64304d
+      internalID: 1856603335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -5}
+        - {x: 13, y: -4}
+        - {x: 16, y: 0}
+        - {x: 16, y: 3}
+        - {x: 14, y: 5}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0462c227e3d7b384983599037fd64293
+      internalID: 1249090977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e9be6610893a7e8458e7acb1ef78c6a6
+      internalID: -188451124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 12}
+        - {x: 8, y: 16}
+        - {x: 3, y: 16}
+        - {x: 3, y: 13}
+        - {x: 5, y: 9}
+        - {x: 7, y: 9}
+      - - {x: -1, y: 12}
+        - {x: -1, y: 16}
+        - {x: -6, y: 16}
+        - {x: -5, y: 10}
+        - {x: -3, y: 10}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 71c30bffae5bca34398803d5d12f17d2
+      internalID: 1067368170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 11}
+        - {x: 3, y: 15}
+        - {x: 5, y: 13}
+        - {x: 7, y: 13}
+        - {x: 8, y: 14}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -8, y: 12}
+        - {x: -6, y: 12}
+        - {x: -5, y: 13}
+        - {x: -4, y: 15}
+        - {x: -2, y: 13}
+        - {x: -2, y: 10}
+        - {x: 0, y: 10}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4ca3902a9b8a3c14daa76062f93e35c8
+      internalID: 83475974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: defc5af9f6052174a8118f5dd374bb06
+      internalID: -2059566466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f18605bd8998c5c4494b4ef9cb3c940c
+      internalID: 922138472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bb4bb58bd24038648b6cb7203e4f45c7
+      internalID: 1495535908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 34f41faff19ccd5498a6020c8680ff93
+      internalID: -1528206871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: 0}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bd4644cb663ef574ca4c4bfaa4fa178c
+      internalID: 1901112875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: efde261950d9ffa41ab77af1b549e5a8
+      internalID: -1535299458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f785c635671cdec4fb31dc82e36f2fd5
+      internalID: -601503179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5c8996383e9a79a41a0e7125df707c22
+      internalID: 42879537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e9e50036bd633344ba7a448ef98c27c8
+      internalID: 1438523370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bd1fd0d3e1cf91f4dabc932f73788a90
+      internalID: -207648937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 73f4cd9b64e95bf4098eebc1332ef4b4
+      internalID: 1770834533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: fc6bbf1eeccc31643b6ad639a78eaf26
+      internalID: -72969068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -15, y: -14}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0dd87467777724e4b8d5b92ba7bf7e81
+      internalID: 1577851965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7064cc6c75dcabd478a689952080d16c
+      internalID: -41020122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5d46687da4aa0fe4d807cac92bb618f1
+      internalID: 1015589719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 596f590491e34da438492fa20aa64981
+      internalID: -86999547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4f126002f3ae81640bfad1971a4bdbc7
+      internalID: -1623865073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 58ed9d8ce33f7f444a8943a072270ba7
+      internalID: -523792963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4494d8af4fc944b46a8d0d2c198476fe
+      internalID: 1248854134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1511ee7ce829be54caf5562d605b0926
+      internalID: 1518493075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6ef1eb11625403444b0d54772556aadc
+      internalID: 646467731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 63391bd0bdf007b4f93809d708ac0da9
+      internalID: 1777759382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1405a9fd3a1ea7f4e84bc6e264510b05
+      internalID: -2092246988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 795cd9a4f08fb754fbb40079ede86ba8
+      internalID: -1501578030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 789c50b176b3e6348b66b74ed254a6ac
+      internalID: -195931904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 548b5db962a659a4f91733f15aca9042
+      internalID: 513954829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 05fdda46231220541bc8f5e046e0d4fb
+      internalID: -970857201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5cd5ff6183109234788c804e3ef52141
+      internalID: -1335863133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 387102ccfa804cf4fb500f7e9b3c6f99
+      internalID: -759501455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 01f6e6fd36e2bfd439fc8718ea3b4936
+      internalID: -1802782048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0a6328129978695448d16b3bdaf89bce
+      internalID: -282132468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e753d504e2633274b933d06c4fa55042
+      internalID: -1920479525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d8f25dfeabeab5648a19ae5872f5acbd
+      internalID: -1409167220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 24a05b01259ec254382fd194770d2724
+      internalID: 1194852015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1d4eaaf0b8f230a42a5e21e5aa9c516f
+      internalID: 1970750529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 79ca059b7df65704880f571bb1aa0729
+      internalID: 1134435872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 618042a2ca07bbc46bb5c19059ba7c7d
+      internalID: 1397487497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_78
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: -1, y: -16}
+        - {x: 1, y: -13}
+        - {x: 3, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -12, y: -16}
+        - {x: -9, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1d1f6ad58f389dd4f82ad981d6dddfd2
+      internalID: 54080794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -11, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 28a6fe6319fcd524ba164c088e7c4996
+      internalID: 957278096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: 0}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0165857c91f5dbc48852a58a1e3f0db5
+      internalID: -1321545016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 97e2524c803e2d843bde6991280d1b85
+      internalID: 111730090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2140e4b495de54246ac603bb11d14ee4
+      internalID: -7839507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: eb7b8361e44d10a4f954bbb8cc6b14a4
+      internalID: 1478173057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 5}
+        - {x: -16, y: 3}
+        - {x: -16, y: 0}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 66195f433ed8a9c4599c0007481a3d82
+      internalID: -436358061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -5}
+        - {x: 13, y: -4}
+        - {x: 16, y: 0}
+        - {x: 16, y: 3}
+        - {x: 14, y: 5}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2abfd7142a64edc42a33b09a21115fd4
+      internalID: -630550301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 0df6f09b247fb374aae36e5e7188f1aa
+      internalID: -1488617687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 12}
+        - {x: 8, y: 16}
+        - {x: 3, y: 16}
+        - {x: 3, y: 13}
+        - {x: 5, y: 9}
+        - {x: 7, y: 9}
+      - - {x: -1, y: 12}
+        - {x: -1, y: 16}
+        - {x: -6, y: 16}
+        - {x: -5, y: 10}
+        - {x: -3, y: 10}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1c43c13fdfa453f408e5a244ca41a7c4
+      internalID: 1679292526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 11}
+        - {x: 3, y: 15}
+        - {x: 5, y: 13}
+        - {x: 7, y: 13}
+        - {x: 8, y: 14}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -8, y: 12}
+        - {x: -6, y: 12}
+        - {x: -5, y: 13}
+        - {x: -4, y: 15}
+        - {x: -2, y: 13}
+        - {x: -2, y: 10}
+        - {x: 0, y: 10}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ab74bc2b96b7183449b720d44b83d24a
+      internalID: -2096608358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6dc65040f831a7b4dbd30f56923a58a4
+      internalID: 1817528566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c5f65f3ea222692439a47fb0febe102a
+      internalID: -2072879008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 37fb57f421d540443aed19a0b9716979
+      internalID: 1712021772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 147277aa6f4b60844b22092036cddcf1
+      internalID: 1782597772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: 0}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 782dc20c3285948409a673de31946e44
+      internalID: -572494955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ffd303e2d9f97b7478126fc8466812fc
+      internalID: 1155519038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 925fef1944d9d594f832fc70914948ea
+      internalID: 744034212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 23fcc4030619fa04ab83562100c9d818
+      internalID: 842691967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b8592bda922c0d84eaa02e18f8c09650
+      internalID: 549899647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6aedb575d6ef32c4b885b48ccda15590
+      internalID: -1124809478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -15}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c358fc1f96497704290415af6106da25
+      internalID: -2118759691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d2c879022ac16f84397accc02418eb00
+      internalID: 158215130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -15, y: -14}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3b22f2ce0eb904f46bbe1c0dfa49bfa6
+      internalID: -745722370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f60be8131e3c2e8428254a5a95c91217
+      internalID: -248419498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f8bf1d6ff4aa29f4d81275aedacb6c1b
+      internalID: -326037500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 72582e5cf81ddca4d8930f5200afad06
+      internalID: -922149784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: cb2b18e51b5089f41b26406fb0aacc86
+      internalID: 1415244310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: dd7e9ecb04f0cbf4f8ac3e2ea17d9871
+      internalID: -265830258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_107
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 61a7fed79539c5a41a47f119e412b20f
+      internalID: 268697458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b5c09648d9c52cc4fb3a4df035a40d80
+      internalID: 689959832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f36fa19c364d3ac43baddc549ee352eb
+      internalID: -1839936561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -1}
+        - {x: 13, y: 0}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b5be213c45844c84092f45e1a06838ee
+      internalID: -684361192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 2}
+        - {x: -13, y: 0}
+        - {x: -14, y: -1}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5ec3d5edf61cfc14fbee32d5920473dc
+      internalID: 950466902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c047ae3ec9227184dbdc5cd48e158c10
+      internalID: -218164423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 403e3f1aae909044f87b34545e0c0369
+      internalID: 881875812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bd65fc9b731d42b47bb73be97a2b6217
+      internalID: -1184487673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e9c7fe818a9f61b498662403cb47be98
+      internalID: -904321243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 88f53afb650f09748b5e839730b3a6f0
+      internalID: 553613608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e632f01d7b866b14f8b991299a5db825
+      internalID: 2076326970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 74a5157e474360f458380d6bd18763e0
+      internalID: 1964981166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: abf28e7ce907765418a8f868e7920172
+      internalID: -2092406540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8bc9d381957bf1744acdd59d09a71d1f
+      internalID: -1306978721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2700756a833090144bd4f14fa8dbcea2
+      internalID: -1966635570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 37d0972bab1804e47ac08f09c123ce31
+      internalID: -1068896481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 15fe64b3e40486e42bbefb7397f84275
+      internalID: 658644624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 134ac59a61d5fc244a0aa942fc38dc23
+      internalID: 705426333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: -3}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ff919b8326eeb2b43a7c6e0e7f791f5c
+      internalID: 782328266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: -1, y: -16}
+        - {x: 1, y: -13}
+        - {x: 3, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -12, y: -16}
+        - {x: -9, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: cc5c5a0c1bb79904d805de52a11d3f3b
+      internalID: -767308282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -11, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8f5c97d3e4813e94a8eff7841f6641f4
+      internalID: 373104453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: 0}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ab7a21f5cd0b40b44a2f0deae23d29f4
+      internalID: 1817547728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8625bf22b08927b4581a2781240d942d
+      internalID: -263693708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b6f8effbed33368428bdfeccb1eb7cb3
+      internalID: 1386985262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 54632d89bf943f340a480afe7ba95b81
+      internalID: -202517416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 5}
+        - {x: -16, y: 3}
+        - {x: -16, y: 0}
+        - {x: -13, y: -4}
+        - {x: -14, y: -5}
+        - {x: -14, y: -14}
+        - {x: -13, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b179ec1569cf7c946a1ccb1b5f9d4455
+      internalID: -1896696132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -14}
+        - {x: 14, y: -5}
+        - {x: 13, y: -4}
+        - {x: 16, y: 0}
+        - {x: 16, y: 3}
+        - {x: 14, y: 5}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 13, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9db5d3265e77a784a8343b22c7e5c49b
+      internalID: -60373891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f02ddf343f04ca24da1184cdbe190a55
+      internalID: 1668921558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 12}
+        - {x: 8, y: 16}
+        - {x: 3, y: 16}
+        - {x: 3, y: 13}
+        - {x: 5, y: 9}
+        - {x: 7, y: 9}
+      - - {x: -1, y: 12}
+        - {x: -1, y: 16}
+        - {x: -6, y: 16}
+        - {x: -5, y: 10}
+        - {x: -3, y: 10}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a1cdd6eb4d85e5245922db0b2d439c9e
+      internalID: -1466722472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 11}
+        - {x: 3, y: 15}
+        - {x: 5, y: 13}
+        - {x: 7, y: 13}
+        - {x: 8, y: 14}
+        - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -8, y: 12}
+        - {x: -6, y: 12}
+        - {x: -5, y: 13}
+        - {x: -4, y: 15}
+        - {x: -2, y: 13}
+        - {x: -2, y: 10}
+        - {x: 0, y: 10}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 491515c7db669964fb7582cc03777847
+      internalID: -30779084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -14, y: 13}
+        - {x: -13, y: 12}
+        - {x: -14, y: 11}
+        - {x: -14, y: 2}
+        - {x: -13, y: 1}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f23da174efcc3f5449a5f1fd04d1b4c9
+      internalID: 771593822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 13, y: 1}
+        - {x: 14, y: 2}
+        - {x: 14, y: 11}
+        - {x: 13, y: 12}
+        - {x: 14, y: 13}
+        - {x: 14, y: 15}
+        - {x: 13, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ecbdda9d7a8da4148afe93bbf07c61f9
+      internalID: 2007038848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d35a794907ff29f4d89547b5d2ad4edb
+      internalID: 1630033957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1a3e641e191959d4aa2e84b6b36de1b1
+      internalID: -436159481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -12, y: 16}
+        - {x: -14, y: 14}
+        - {x: -15, y: 12}
+        - {x: -15, y: 5}
+        - {x: -13, y: 3}
+        - {x: -14, y: 2}
+        - {x: -14, y: 0}
+        - {x: -13, y: -1}
+        - {x: -14, y: -2}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: -7, y: -13}
+        - {x: -6, y: -14}
+        - {x: -2, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 958a340fafb2b254bb309768cfaa1258
+      internalID: -1170639606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 11, y: -14}
+        - {x: 12, y: -13}
+        - {x: 13, y: -14}
+        - {x: 15, y: -14}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c92f8480bdf32aa4e986014ee6503ae5
+      internalID: -1925023328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor Tiles1_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 1, y: -13}
+        - {x: 2, y: -14}
+        - {x: 10, y: -13}
+        - {x: 14, y: -9}
+        - {x: 14, y: -2}
+        - {x: 13, y: -1}
+        - {x: 14, y: 0}
+        - {x: 14, y: 2}
+        - {x: 13, y: 3}
+        - {x: 15, y: 5}
+        - {x: 15, y: 12}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -14, y: -14}
+        - {x: -3, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 53076d5252ef46946a363a0d12e6a39c
+      internalID: 197753495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7cfd6bee7534c4e45a2e3edc7144c911
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: True
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Floor Tiles1_0: -885490389708638852
+      Floor Tiles1_1: 4664948647741177346
+      Floor Tiles1_10: -98629532
+      Floor Tiles1_100: 158215130
+      Floor Tiles1_101: -745722370
+      Floor Tiles1_102: -248419498
+      Floor Tiles1_103: -326037500
+      Floor Tiles1_104: -922149784
+      Floor Tiles1_105: 1415244310
+      Floor Tiles1_106: -265830258
+      Floor Tiles1_107: 268697458
+      Floor Tiles1_108: 689959832
+      Floor Tiles1_109: -1839936561
+      Floor Tiles1_11: -1156302322
+      Floor Tiles1_110: -684361192
+      Floor Tiles1_111: 950466902
+      Floor Tiles1_112: -218164423
+      Floor Tiles1_113: 881875812
+      Floor Tiles1_114: -1184487673
+      Floor Tiles1_115: -904321243
+      Floor Tiles1_116: 553613608
+      Floor Tiles1_117: 2076326970
+      Floor Tiles1_118: 1964981166
+      Floor Tiles1_119: -2092406540
+      Floor Tiles1_12: -829265772
+      Floor Tiles1_120: -1306978721
+      Floor Tiles1_121: -1966635570
+      Floor Tiles1_122: -1068896481
+      Floor Tiles1_123: 658644624
+      Floor Tiles1_124: 705426333
+      Floor Tiles1_125: 782328266
+      Floor Tiles1_126: -767308282
+      Floor Tiles1_127: 373104453
+      Floor Tiles1_128: 1817547728
+      Floor Tiles1_129: -263693708
+      Floor Tiles1_13: 1051478708
+      Floor Tiles1_130: 1386985262
+      Floor Tiles1_131: -202517416
+      Floor Tiles1_132: -1896696132
+      Floor Tiles1_133: -60373891
+      Floor Tiles1_134: 1668921558
+      Floor Tiles1_135: -1466722472
+      Floor Tiles1_136: -30779084
+      Floor Tiles1_137: 771593822
+      Floor Tiles1_138: 2007038848
+      Floor Tiles1_139: 1630033957
+      Floor Tiles1_14: -2097258235
+      Floor Tiles1_140: -436159481
+      Floor Tiles1_141: -1170639606
+      Floor Tiles1_142: -1925023328
+      Floor Tiles1_143: 197753495
+      Floor Tiles1_15: -1929130406
+      Floor Tiles1_16: -231245414
+      Floor Tiles1_17: -274668902
+      Floor Tiles1_18: 429581467
+      Floor Tiles1_19: 1958776069
+      Floor Tiles1_2: 2619224648285878156
+      Floor Tiles1_20: -1673724728
+      Floor Tiles1_21: -266597193
+      Floor Tiles1_22: -594062065
+      Floor Tiles1_23: -260292456
+      Floor Tiles1_24: -1289606501
+      Floor Tiles1_25: 1639157351
+      Floor Tiles1_26: 578887289
+      Floor Tiles1_27: -1348941916
+      Floor Tiles1_28: -805149467
+      Floor Tiles1_29: -784099658
+      Floor Tiles1_3: 9059985093895342338
+      Floor Tiles1_30: -2105869879
+      Floor Tiles1_31: 1941512846
+      Floor Tiles1_32: 497994328
+      Floor Tiles1_33: 397165637
+      Floor Tiles1_34: 866635648
+      Floor Tiles1_35: -1038921408
+      Floor Tiles1_36: 1856603335
+      Floor Tiles1_37: 1249090977
+      Floor Tiles1_38: -188451124
+      Floor Tiles1_39: 1067368170
+      Floor Tiles1_4: -2969643690591719800
+      Floor Tiles1_40: 83475974
+      Floor Tiles1_41: -2059566466
+      Floor Tiles1_42: 922138472
+      Floor Tiles1_43: 1495535908
+      Floor Tiles1_44: -1528206871
+      Floor Tiles1_45: 1901112875
+      Floor Tiles1_46: -1535299458
+      Floor Tiles1_47: -601503179
+      Floor Tiles1_48: 42879537
+      Floor Tiles1_49: 1438523370
+      Floor Tiles1_5: -8529450578015033813
+      Floor Tiles1_50: -207648937
+      Floor Tiles1_51: 1770834533
+      Floor Tiles1_52: -72969068
+      Floor Tiles1_53: 1577851965
+      Floor Tiles1_54: -41020122
+      Floor Tiles1_55: 1015589719
+      Floor Tiles1_56: -86999547
+      Floor Tiles1_57: -1623865073
+      Floor Tiles1_58: -523792963
+      Floor Tiles1_59: 1248854134
+      Floor Tiles1_6: -3836897206303343908
+      Floor Tiles1_60: 1518493075
+      Floor Tiles1_61: 646467731
+      Floor Tiles1_62: 1777759382
+      Floor Tiles1_63: -2092246988
+      Floor Tiles1_64: -1501578030
+      Floor Tiles1_65: -195931904
+      Floor Tiles1_66: 513954829
+      Floor Tiles1_67: -970857201
+      Floor Tiles1_68: -1335863133
+      Floor Tiles1_69: -759501455
+      Floor Tiles1_7: -1800769148
+      Floor Tiles1_70: -1802782048
+      Floor Tiles1_71: -282132468
+      Floor Tiles1_72: -1920479525
+      Floor Tiles1_73: -1409167220
+      Floor Tiles1_74: 1194852015
+      Floor Tiles1_75: 1970750529
+      Floor Tiles1_76: 1134435872
+      Floor Tiles1_77: 1397487497
+      Floor Tiles1_78: 54080794
+      Floor Tiles1_79: 957278096
+      Floor Tiles1_8: 587784271
+      Floor Tiles1_80: -1321545016
+      Floor Tiles1_81: 111730090
+      Floor Tiles1_82: -7839507
+      Floor Tiles1_83: 1478173057
+      Floor Tiles1_84: -436358061
+      Floor Tiles1_85: -630550301
+      Floor Tiles1_86: -1488617687
+      Floor Tiles1_87: 1679292526
+      Floor Tiles1_88: -2096608358
+      Floor Tiles1_89: 1817528566
+      Floor Tiles1_9: -2121943322
+      Floor Tiles1_90: -2072879008
+      Floor Tiles1_91: 1712021772
+      Floor Tiles1_92: 1782597772
+      Floor Tiles1_93: -572494955
+      Floor Tiles1_94: 1155519038
+      Floor Tiles1_95: 744034212
+      Floor Tiles1_96: 842691967
+      Floor Tiles1_97: 549899647
+      Floor Tiles1_98: -1124809478
+      Floor Tiles1_99: -2118759691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
