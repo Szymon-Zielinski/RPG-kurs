@@ -41,6 +41,7 @@ public class Player : MonoBehaviour
 
     [Header("Collision detection")] 
     [SerializeField] private float groundCheckDistance;
+    [SerializeField] private Transform groundCheck;
     [SerializeField] private float wallCheckDistance;
     [SerializeField] private LayerMask whatIsGround;
     [SerializeField] private Transform priamryWallCheck;
@@ -139,11 +140,43 @@ public class Player : MonoBehaviour
 
     private void HandleCollisionDetection()
     {
-        groundDetected = Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, whatIsGround);
-        wallDetected = Physics2D.Raycast(priamryWallCheck.position, Vector2.right * facingDir, wallCheckDistance,
-                           whatIsGround)
-                       && Physics2D.Raycast(secondaryWallCheck.position, Vector2.right * facingDir, wallCheckDistance,
-                           whatIsGround);
+        
+        // groundDetected = Physics2D.Raycast(transform.position, Vector2.down, groundCheckDistance, whatIsGround);
+        // wallDetected = Physics2D.Raycast(priamryWallCheck.position, Vector2.right * facingDir, wallCheckDistance,
+        //     whatIsGround)
+        // && Physics2D.Raycast(secondaryWallCheck.position, Vector2.right * facingDir, wallCheckDistance,
+        //     whatIsGround);
+        groundDetected = Physics2D.Raycast(
+            groundCheck.position,
+            Vector2.down,
+            groundCheckDistance,
+            whatIsGround
+        );
+        RaycastHit2D hit1 = Physics2D.Raycast(
+            priamryWallCheck.position,
+            Vector2.right * facingDir,
+            wallCheckDistance,
+            whatIsGround);
+        
+        RaycastHit2D hit2 = Physics2D.Raycast(
+            secondaryWallCheck.position,
+            Vector2.right * facingDir,
+            wallCheckDistance,
+            whatIsGround);
+        
+        wallDetected = hit1 && hit2;
+        
+        // Debug.DrawRay(
+        //     priamryWallCheck.position,
+        //     Vector2.right * facingDir * wallCheckDistance,
+        //     hit1 ? Color.green : Color.red);
+        //
+        // Debug.DrawRay(
+        //     secondaryWallCheck.position,
+        //     Vector2.right * facingDir * wallCheckDistance,
+        //     hit2 ? Color.green : Color.red);
+    
+
     }
 
    private void OnDrawGizmos()

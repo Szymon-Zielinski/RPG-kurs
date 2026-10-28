@@ -9,6 +9,11 @@ public class Player_MoveState : PlayerGroundedState
     public override void Update()
     {
         base.Update();
+        if (!player.groundDetected)
+        {
+            stateMachine.ChangeState(player.fallState);
+            return;
+        }
         if (player.moveInput.x ==0 || player.wallDetected)
             stateMachine.ChangeState(player.idleState);
         
