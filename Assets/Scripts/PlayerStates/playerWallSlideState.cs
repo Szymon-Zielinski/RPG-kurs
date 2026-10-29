@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class playerWallSlideState : EntityState
+public class playerWallSlideState : PlayerState
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public playerWallSlideState(Player player, StateMachine stateMachine, string animBoolName) : base(player, stateMachine, animBoolName)
