@@ -1,0 +1,10 @@
+using UnityEngine;
+
+public class Enemy_IdleState : EnemyState
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public Enemy_IdleState(Enemy enemy, StateMachine stateMachine, string animBoolName) : base(enemy, stateMachine, animBoolName)
+    {
+    }
+    
+}
